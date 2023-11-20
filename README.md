@@ -9,10 +9,7 @@
 
 
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+
 ---
 
 * 1번
