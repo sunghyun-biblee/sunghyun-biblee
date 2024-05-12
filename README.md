@@ -15,8 +15,4 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=sunghyun-biblee)](https://github.com/sunghyun-biblee/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee)](https://github.com/sunghyun-biblee/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact)](https://github.com/sunghyun-biblee/github-readme-stats)
