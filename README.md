@@ -3,7 +3,7 @@
 <div style={display:flex}>
 <img src="https://github-readme-stats.vercel.app/api?username=sunghyun-biblee&show_icons=true">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact" heigh="100%">
 </div>
 
 
