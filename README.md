@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0687AA,100:5FA86F&height=250&section=header&text=sunghyun's%20GitHub&fontSize=90&animation=fadeIn&fontColor=DBF2FF" />
-
-
+## sunghyun
+<br/>
+### Tech Stack
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -10,11 +10,14 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
 
-# Hi there 👋
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-😏
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=sunghyun-biblee)](https://github.com/sunghyun-biblee/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact)](https://github.com/sunghyun-biblee/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=sunghyun-biblee)](https://github.com/sunghyun-biblee/github-readme-stats)
