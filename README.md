@@ -1,9 +1,9 @@
 ## Welcome To My GitHub ! &ensp;  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghyun-biblee%2Fhit-counter&count_bg=%23388FEB&title_bg=%23A8A8A8&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div style={display:flex}>
-<img scr="https://github-readme-stats.vercel.app/api?username=sunghyun-biblee&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=sunghyun-biblee&show_icons=true">
   
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun-biblee&layout=compact">
 </div>
 
 
